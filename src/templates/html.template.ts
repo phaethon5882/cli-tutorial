@@ -1,0 +1,13 @@
+export const htmlTemplate = `
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta chart="utf-8" />
+      <title>Template</title>
+    </head>
+    <body>
+      <h1>Hello</h1>
+      <p>CLI</p>
+    </body>
+  </html>
+`;
