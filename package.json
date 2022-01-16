@@ -1,12 +1,24 @@
 {
   "name": "cli-tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaethon5882/cli-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phaethon5882/cli-tutorial/issues"
+  },
+  "homepage": "https://github.com/phaethon5882/cli-tutorial#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "typescript": "^4.5.4"
+  }
 }
